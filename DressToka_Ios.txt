@@ -1,6 +1,6 @@
 //appKey IronSource
 AppKeyBegin##{16e7b4f8d}##LastAppKey
-ContoreServerBegin##{5}##LastContoreServer
+ContoreServerBegin##{10}##LastContoreServer
 moregameBegin##{}##Lastmoregame
 SheireBegin##{}##Sheiregame
 UrlRateUsBegin##{}##LastUrlRateUs
