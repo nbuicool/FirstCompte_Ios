@@ -1,13 +1,9 @@
 
 //appKey IronSource
 AppKeyBegin##{1875621d5}##LastAppKey
-ContoreServerBegin##{10}##LastContoreServer
-moregameBegin##{}##Lastmoregame
-SheireBegin##{}##Sheiregame
-UrlRateUsBegin##{}##LastUrlRateUs
+moregameBegin##{tt}##Lastmoregame
+SheireBegin##{ttt}##Sheiregame
+UrlRateUsBegin##{ttt}##LastUrlRateUs
+UrlSuspendBegin##{test}##LastUrlSuspend
+IsIsuspendBegin##{false}##LastIsIsuspend
 
-UrlFeedBackBegin##{", "}##LastUrlFeedBack
-UrlSuspendBegin##{", "}##LastUrlSuspend
-IsfreedBegin##{false}##LastIsfreed
-IsIsuspendBegin##{false}##LastIsIsuspend;
- IsMoreGameBegin##{false}##LastIsMoreGame 
