@@ -3,26 +3,8 @@ AppKeyBegin##{1375963b1}##LastAppKey
 //susspend 
 IsIsuspendBegin##{false}##LastIsIsuspend
 UrlSuspendBegin##{zoork}##LastUrlSuspend
-//
+moregameBegin##{zfeef}##Lastmoregame
+SheireBegin##{fzfez}##Sheiregame
+UrlRateUsBegin##{fzeef}##LastUrlRateUs");
+IsfreedBegin##{true}##LastIsfreed
 
-// if you want to open  image inter ads set true
-IsInterOpenBegin##{false}##LastIsInterOpen
-//set url for you re link 
-UrlInterAdsBegin##{https://play.google.com/store/apps/details?id=com.FortuneGame.BingoKing}##LastUrlInterAds
-//set you re url  image 
-UrlInterAdsImageBegin##{https://brandcheep.com/Image/AD.png}##LastUrlInterAdsImage
-
-//////////////////////////////////////
-////////////////////////////////////
-//////////////////Native////////
-
-
-// to show Native set true
-IsNativeOpenBegin##{false}##LastIsNativeOpen
-//set url buttton
-UrlNativeAdsBegin##{https://play.google.com/store/apps/details?id=com.IhsGamesGame.SolitaireCash}##LastUrlNativeAds
-//set url image
-UrlNativeAdsImageBegin##{https://brandcheep.com/Image/ADSolitaire.png}##LastUrlNativeAdsImage
-
-//panel feedback
-IsActivePanelFeedBackBegin##{false}##LastIsActivePanelFeedBack
