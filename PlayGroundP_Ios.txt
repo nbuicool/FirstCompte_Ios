@@ -6,5 +6,5 @@ UrlSuspendBegin##{zoork}##LastUrlSuspend
 moregameBegin##{zfeef}##Lastmoregame
 SheireBegin##{fzfez}##Sheiregame
 UrlRateUsBegin##{fzeef}##LastUrlRateUs");
-IsfreedBegin##{true}##LastIsfreed
+IsfreedBegin##{false}##LastIsfreed
 
