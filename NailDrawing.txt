@@ -1,5 +1,37 @@
-//appKey IronSource
-AppKeyBegin##{1538d5629}##LastAppKey
-moregameBegin##{https://play.google.com/store/apps/details?id=com.eldenringwell.elderringgame}##Lastmoregame
-SheireBegin##{https://play.google.com/store/apps/details?id=com.eldenringwell.elderringgame}##Sheiregame
-UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.eldenringwell.elderringgame}##LastUrlRateUs
+
+//Apploving
+SdkKeyBegin##{9xIG9VIUNVC7A6tXeymIndbkMs0r4V0_dZf9N69G4nWladWO4vuyU9OJL3iGSU5HbFcMDS0T1_M2QpFH90EQnE}##LastSdkKey
+bannerIdBegin##{5289db99bebfc0f7}##LastbannerId
+   //use it for admob
+InterIdBegin##{ca-app-pub-3940256099942544/103317372}##LastInterId
+RewordIdBegin##{ca-app-pub-3940256099942544/522435497}##LastRewordId
+
+GameIdBegin##{5456713}##LastGameId
+ChoseNetworkBegin##{unity}##LastChoseNetwork
+//url Susspend Game And also when game suspend we just add new link to url more game
+UrlSusspendAppBegin##{ cc}##LastUrlSusspendApp
+//we put true if the game suspend and we change urlmore game to new link
+IssuspendBegin##{false}##LastIssuspend
+// if you want to open  image inter ads set true
+IsInterOpenBegin##{false}##LastIsInterOpen
+//set url for you re link 
+
+UrlInterAdsBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlInterAds
+
+//set you re url  image 
+UrlInterAdsImageBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlInterAdsImage
+
+
+
+//////////////////////////////////////
+////////////////////////////////////
+//////////////////NativeAds////////
+// to show Native set true
+IsBannerOpenBegin##{false}##LastIsBannerOpen
+UrlBannerAdsBegin##{https://brandcheep.com/Image/Pocket.png}##LastUrlBannerAds
+
+UrlBannerAdsImageBegin##{https://brandcheep.com/Image/Pocket.png}##LastUrlBannerAdsImage
+//panel feedback
+IsActivePanelFeedBackBegin##{false}##LastIsActivePanelFeedBack
+/panel change
+IsPanelCHangeActiveBegin##{false}##LastIsPanelCHangeActive
