@@ -5,7 +5,7 @@ bannerIdBegin##{5289db99bebfc0f7}##LastbannerId
 InterIdBegin##{ca-app-pub-3940256099942544/103317372}##LastInterId
 RewordIdBegin##{ca-app-pub-3940256099942544/522435497}##LastRewordId
 
-GameIdBegin##{5456713}##LastGameId
+GameIdBegin##{54563}##LastGameId
 ChoseNetworkBegin##{unity}##LastChoseNetwork
 //url Susspend Game And also when game suspend we just add new link to url more game
 UrlSusspendAppBegin##{ cc}##LastUrlSusspendApp
