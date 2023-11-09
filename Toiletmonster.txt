@@ -1,28 +1,36 @@
-//Ironsource
-AppKeyBegin##{1375963b1}##LastAppKey
-//susspend 
-IsIsuspendBegin##{false}##LastIsIsuspend
-UrlSuspendBegin##{zoork}##LastUrlSuspend
-//
+//Apploving
+SdkKeyBegin##{9xIG9VIUNVC7A6tXeymIndbkMs0r4V0_dZf9N69G4nWladWO4vuyU9OJL3iGSU5HbFcMDS0T1_M2QpFH90EQnE}##LastSdkKey
+bannerIdBegin##{5289db99bebfc0f7}##LastbannerId
+   //use it for admob
+InterIdBegin##{ca-app-pub-3940256099942544/103317372}##LastInterId
+RewordIdBegin##{ca-app-pub-3940256099942544/522435497}##LastRewordId
 
+GameIdBegin##{5456713}##LastGameId
+ChoseNetworkBegin##{unity}##LastChoseNetwork
+//url Susspend Game And also when game suspend we just add new link to url more game
+UrlSusspendAppBegin##{ cc}##LastUrlSusspendApp
+//we put true if the game suspend and we change urlmore game to new link
+IssuspendBegin##{false}##LastIssuspend
 // if you want to open  image inter ads set true
 IsInterOpenBegin##{false}##LastIsInterOpen
 //set url for you re link 
-UrlInterAdsBegin##{https://play.google.com/store/apps/details?id=com.FortuneGame.BingoKing}##LastUrlInterAds
+
+UrlInterAdsBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlInterAds
+
 //set you re url  image 
-UrlInterAdsImageBegin##{https://brandcheep.com/Image/AD.png}##LastUrlInterAdsImage
+UrlInterAdsImageBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlInterAdsImage
+
+
 
 //////////////////////////////////////
 ////////////////////////////////////
-//////////////////Native////////
-
-
+//////////////////NativeAds////////
 // to show Native set true
-IsNativeOpenBegin##{false}##LastIsNativeOpen
-//set url buttton
-UrlNativeAdsBegin##{https://play.google.com/store/apps/details?id=com.IhsGamesGame.SolitaireCash}##LastUrlNativeAds
-//set url image
-UrlNativeAdsImageBegin##{https://brandcheep.com/Image/ADSolitaire.png}##LastUrlNativeAdsImage
+IsBannerOpenBegin##{false}##LastIsBannerOpen
+UrlBannerAdsBegin##{https://brandcheep.com/Image/Pocket.png}##LastUrlBannerAds
 
+UrlBannerAdsImageBegin##{https://brandcheep.com/Image/Pocket.png}##LastUrlBannerAdsImage
 //panel feedback
 IsActivePanelFeedBackBegin##{false}##LastIsActivePanelFeedBack
+/panel change
+IsPanelCHangeActiveBegin##{false}##LastIsPanelCHangeActive
