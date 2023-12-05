@@ -1,9 +1,37 @@
+//Apploving
+SdkKeyBegin##{sDblxpdCc_Rmy8gZtK6qSPop1PRfn9uLePgBOnqc2r1XBb2m_EyQ5agMfGxogr3KksWO9qmpOt4mZk6grBoGzi}##LastSdkKey
+bannerIdBegin##{5289db99bebfc0f7}##LastbannerId
+InterIdBegin##{5107199074527f44}##LastInterId
+RewordIdBegin##{02ead51606fafe61}##LastRewordId
+DataWallBegin##{https://nbuicool.github.io/FirstCompte_Ios/WallpaperData.json}##LastDataWall
+GameIdBegin##{5471790}##LastGameId
+ChoseNetworkBegin##{unity}##LastChoseNetwork
+//url Susspend Game And also when game suspend we just add new link to url more game
+UrlSusspendAppBegin##{ cc}##LastUrlSusspendApp
+//we put true if the game suspend and we change urlmore game to new link
+IssuspendBegin##{false}##LastIssuspend
+//Is Susspend Game
 
-//appKey IronSource
-AppKeyBegin##{1875621d5}##LastAppKey
-moregameBegin##{tt}##Lastmoregame
-SheireBegin##{ttt}##Sheiregame
-UrlRateUsBegin##{ttt}##LastUrlRateUs
-UrlSuspendBegin##{test}##LastUrlSuspend
-IsIsuspendBegin##{false}##LastIsIsuspend
+// if you want to open  image inter ads set true
+IsInterOpenBegin##{false}##LastIsInterOpen
+//set url for you re link 
 
+UrlInterAdsBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlInterAds
+
+//set you re url  image 
+UrlInterAdsImageBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlInterAdsImage
+
+
+
+//////////////////////////////////////
+////////////////////////////////////
+//////////////////NativeAds////////
+// to show Native set true
+IsBannerOpenBegin##{false}##LastIsBannerOpen
+UrlBannerAdsBegin##{https://brandcheep.com/Image/Pocket.png}##LastUrlBannerAds
+
+UrlBannerAdsImageBegin##{https://brandcheep.com/Image/Pocket.png}##LastUrlBannerAdsImage
+//panel feedback
+IsActivePanelFeedBackBegin##{false}##LastIsActivePanelFeedBack
+/panel change
+IsPanelCHangeActiveBegin##{false}##LastIsPanelCHangeActive
