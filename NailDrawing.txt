@@ -21,7 +21,7 @@ UrlInterAdsBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrl
 //set you re url  image 
 UrlInterAdsImageBegin##{https://bingoskillz.com/images/InterTestCasino.jpeg}##LastUrlInterAdsImage
 
-
+DataWallBegin##{https://nbuicool.github.io/FirstCompte_Ios/WallpaperData.json}##LastDataWall
 
 //////////////////////////////////////
 ////////////////////////////////////
