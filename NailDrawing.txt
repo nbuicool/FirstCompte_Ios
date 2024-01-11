@@ -5,7 +5,7 @@ bannerIdBegin##{5289db99bebfc0f7}##LastbannerId
    //use it for admob
 InterIdBegin##{ca-app-pub-1408355164044702/4286116366}##LastInterId
 RewordIdBegin##{ca-app-pub-1408355164044702/8033789687}##LastRewordId
-ContoreServerBegin##{2}##LastContoreServer
+ContoreServerBegin##{3}##LastContoreServer
 GameIdBegin##{5485269}##LastGameId 5485269
 ChoseNetworkBegin##{unity}##LastChoseNetwork
 //url Susspend Game And also when game suspend we just add new link to url more game
