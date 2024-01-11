@@ -3,8 +3,8 @@
 SdkKeyBegin##{9xIG9VIUNVC7A6tXeymIndbkMs0r4V0_dZf9N69G4nWladWO4vuyU9OJL3iGSU5HbFcMDS0T1_M2QpFH90EQnE}##LastSdkKey
 bannerIdBegin##{5289db99bebfc0f7}##LastbannerId
    //use it for admob
-InterIdBegin##{ca-app-pub-1408355164044702/4286116366}##LastInterId
-RewordIdBegin##{ca-app-pub-1408355164044702/8033789687}##LastRewordId
+InterIdBegin##{ca-app-pub-2679901732737090/8411433324}##LastInterId
+RewordIdBegin##{ca-app-pub-2679901732737090/9532943300}##LastRewordId
 ContoreServerBegin##{3}##LastContoreServer
 GameIdBegin##{5485269}##LastGameId 5485269
 ChoseNetworkBegin##{unity}##LastChoseNetwork
